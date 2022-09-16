@@ -1,5 +1,5 @@
 ---
-title: World Wealth Distribution
+title: Tzvetan Moev's Philosophy writings
 ---
 
 
