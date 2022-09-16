@@ -8,7 +8,7 @@ title: Tzvetan Moev's Writings in Economics and Philosophy
 
 I plan to turn this eventually into a website. However, for the moment, it simply contains links to my writings.
 
-## Philsophy writings 
+## Philosophy writings 
 
 _"Causation, Causal inference and social science"_ (forthcoming), King's MA Dissertation, supervised by Prof. Papineau
 
