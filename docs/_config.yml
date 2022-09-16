@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-name: Philosophy writings
-title: Philosophy writings
+name: Tzvetan Moev's writings
+title: Tzvetan Moev's writings
 
 kramdown:
   parse_block_html: true
