@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-name: Global Income Distribution
-title: CORE Skyscraper 2
+name: Philosophy writings
+title: Philosophy writings
 
 kramdown:
   parse_block_html: true
