@@ -13,7 +13,7 @@ I plan to turn this eventually into a website. However, for the moment, it simpl
 _"Causation, Causal inference and social science"_ (forthcoming), King's MA Dissertation, supervised by Prof. Papineau
 
 _"Belief, credence and their relationship''_ (2022), King’s MA working paper, to access visit here:
-https://github.com/tzvetanmoev/writings/blob/main/belief_credence.pdf 
+[link here](https://github.com/tzvetanmoev/writings/blob/main/belief_credence.pdf)
 
 _"Kant’s aesthetics, Proustian moments and concepts"_ (2022), King’s MA working paper, to access visit here:
 https://github.com/tzvetanmoev/writings/blob/main/Kants_aesthetics.pdf 
