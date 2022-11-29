@@ -10,9 +10,9 @@ I plan to turn this eventually into a website. However, for the moment, it simpl
 
 ## Philosophy writings 
 
-_"Can evidential pluralism reconcile experimentalists and structuralists?"_ (forthcoming), Cambridge MPhil Working paper, supervised by Prof. Alexandrova [link here](https://github.com/tzvetanmoev/writings/blob/main/causal_inference.pdf)
+_"Can evidential pluralism reconcile experimentalists and structuralists?"_ (forthcoming), Cambridge MPhil Working paper, supervised by Prof. Alexandrova, [link here](https://github.com/tzvetanmoev/writings/blob/main/stucturalists_vs_experimentalists.pdf)
 
-_"Why do social scientists disagree about the right way to do causal inference?''_ (2022), King's MA Dissertation, supervised by Prof. Papineau [link here](https://github.com/tzvetanmoev/writings/blob/main/causal_inference.pdf)
+_"Why do social scientists disagree about the right way to do causal inference?''_ (2022), King's MA Dissertation, supervised by Prof. Papineau, [link here](https://github.com/tzvetanmoev/writings/blob/main/causal_inference.pdf)
 
 _"Belief, credence and their relationship''_ (2022), King’s MA working paper, [link here](https://github.com/tzvetanmoev/writings/blob/main/belief_credence.pdf)
 
